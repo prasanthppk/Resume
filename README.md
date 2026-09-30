@@ -10,8 +10,3 @@ Analytical and detail-oriented CAE Analyst with 7+ years of experience in simula
   ●	Other Skills: Cloud (AWS, Azure, GCP basics), Git/GitHub.
   ●	CAE: ANSA (Finite Element Modelling software)
 
-## Projects:
-  <a href="https://github.com/prasanthppk/projects/" target="_blank">My Projects</a>
-
-## Social Media
-  <a href="https://www.linkedin.com/in/prasanthponnada/" target="_blank">My LinkedIn Profile</a>
